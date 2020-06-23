@@ -5,7 +5,8 @@ This is a Pytorch implementation of [Reading Like {HER}: Human Reading Inspired 
 ## 0. Enviroment
 python 2.7\
 pytorch 1.3\
-pyrouge 0.1.3
+pyrouge 0.1.3\
+rouge 0.3.0
  
 ## 1. Prepare Dataset 
 We evaluate our models on three datasets: the CNN, the DailyMail and the com- bined CNN/DailyMail ```(Hermann et al., 2015; Nallapati et al., 2016).``` You can download dataset from [here](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail).
