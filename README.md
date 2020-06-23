@@ -24,7 +24,7 @@ python dataLoader.py
 
 ## 3. Train / Test
 ```
-python main.py \
+python main.py
 python evaluate.py --std_rouge
 
 ```
