@@ -4,7 +4,7 @@ This is a Pytorch implementation of [Reading Like {HER}: Human Reading Inspired 
 
 ## 0. Enviroment
 python 2.7\
-pytorch 1.3\
+pytorch 1.3.1\
 pyrouge 0.1.3\
 rouge 0.3.1 \
 theano 0.9.0 \
